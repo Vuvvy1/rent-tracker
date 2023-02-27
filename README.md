@@ -1,11 +1,6 @@
 ## RentProof
 
-RentProof is An app to track and analyze rental prices. Users can submit info about their rent costs, and the app tracks this data, graphing out rental increases over the years, and showing how each property's price fluctuations compare to the rest of the market. The project use teck stacks such as ->
-  React
-	Google api
-	Express
-	Node
-	Psql
+RentProof is An app to track and analyze rental prices. Users can submit info about their rent costs, and the app tracks this data, graphing out rental increases over the years, and showing how each property's price fluctuations compare to the rest of the market. The project uses tech stacks such as React, Google API, Express, Node, and Psql.
 
 
 ## Examples
